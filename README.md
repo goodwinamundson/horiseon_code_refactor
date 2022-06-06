@@ -1,4 +1,14 @@
-# Horiseon Code Refactor
+<h1 align="center">Horiseon Code Refactor<h1>
+  
+![Github license](http://img.shields.io/badge/license-MIT-blue.svg)
+## Table of Contents
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
+ 
 
 ## Description
 The purpose of this project was to take the existing code from the Horiseon Social Solutions website and refactor it to be better accessible for people using assistive technologies such as video captions, screen readers, and braille keyboards. 
@@ -33,6 +43,9 @@ THEN I find a concise, descriptive title
 
 
 This project shows how important proper html syntax and structure are for meeting accesibility standards. In the future a more concise README.md file may be beneficial. 
+  
+## Installation 
+Users should clone the repository from GitHub and open the index file in the browser.
 
 ## Usage
 The project, hosted at 
@@ -46,22 +59,19 @@ https://goodwinamundson.github.io/horiseon_code_refactor/Develop/index.html
 Visiting the second link should bring you to the functional website for Horiseon Social Solutions.  All links at the top of the webpage will bring the user to the corresponding section of the page.  As seen in the index.html and styles.css files the code should meet basic requirements for accessiblility standards. 
 
 ### Functional website should appear as in following screenshots: #
-[Image 1](Develop/assets/images/screenshot_live_site_1.png)
-[Image 2](Develop/assets/images/screenshot_live_site_2.png)
-
-### Correct HTML: 
-[Image 1](Develop/assets/images/screenshot_html_1.png)
-[Image 2](Develop/assets/images/screenshot_html_2.png)
-
-### Correct CSS: 
-[Image 1](Develop/assets/images/screenshot_css_1.png)
-[Image 2](Develop/assets/images/screenshot_css_2.png)
-[Image 3](Develop/assets/images/screenshot_css_3.png)
-
-## Credits
-I used w3schools.com as well as github.com as guides for this project.
+![Image 1](Develop/assets/images/screenshot_live_site_1.png)
+![Image 2](Develop/assets/images/screenshot_live_site_2.png)
 
 ## License
 &copy; 2019 Horiseon Social Solution Services, Inc.
 
----
+## Contributing 
+Contributors should read the installation section. 
+
+## Tests
+There are no tests for this application. 
+
+## Questions
+  
+If you have any questions about this projects, please contact me directly at goodwinamundson@gmail.com. You can view more of my projects at https://github.com/goodwinamundson.
+
